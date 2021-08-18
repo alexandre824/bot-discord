@@ -1,0 +1,14 @@
+{
+  "name": "bot_friend",
+  "version": "1.0.0",
+  "description": "\"Um bot para discord\"",
+  "main": "bot.js",
+  "scripts": {
+    "test": "{\t\"test\": \"echo \"Error: no test specified\" && exit 1\"}"
+  },
+  "author": "Marcos Alexandre",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
